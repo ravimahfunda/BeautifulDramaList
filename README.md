@@ -21,11 +21,11 @@ No list yet
 
 ## Japanese Movie
 - My Tomorrow, Your Yesterday
-- Orange
-- Your lie in April
+- [ ] Orange
+- [ ] Your lie in April
 - One week friend
-- LDK
-- Heroine Disqualified
+- [ ] LDK
+- [ ] Heroine Disqualified
 
 ## Anime the Movie
 - Kimi no Nawa
@@ -42,3 +42,4 @@ No list yet
 - Suck Seed
 - a little things called Love
 - [ ] Time Line
+- [ ] Billionare
