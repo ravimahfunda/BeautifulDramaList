@@ -36,3 +36,9 @@ No list yet
 
 ## Korean TV Series
 - Master of Sun
+
+## Thailand Movies
+- Pee Mak
+- Suck Seed
+- a little things called Love
+- [] Time Line
