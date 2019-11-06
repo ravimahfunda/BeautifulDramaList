@@ -33,6 +33,7 @@ No list yet
 
 ## Anime
 - Kokoro Connect
+- Ano hi mita hana (Anohana)
 
 ## Korean TV Series
 - Master of Sun
@@ -43,3 +44,5 @@ No list yet
 - a little things called Love
 - [ ] Time Line
 - [ ] Billionare
+- London Sweeties
+- Friend Zone
